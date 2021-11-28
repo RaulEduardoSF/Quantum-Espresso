@@ -1,0 +1,12 @@
+80	!    total energy              =     -20.42585876 Ry
+100	!    total energy              =     -20.42586487 Ry
+120	!    total energy              =     -20.42586835 Ry
+140	!    total energy              =     -20.42586996 Ry
+160	!    total energy              =     -20.42587146 Ry
+180	!    total energy              =     -20.42587234 Ry
+200	!    total energy              =     -20.42587341 Ry
+220	!    total energy              =     -20.42587393 Ry
+240	!    total energy              =     -20.42587446 Ry
+260	!    total energy              =     -20.42587489 Ry
+280	!    total energy              =     -20.42587515 Ry
+300	!    total energy              =     -20.42587540 Ry
